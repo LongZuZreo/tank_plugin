@@ -2,9 +2,9 @@
 
 namespace tank_plugin
 {
-    public class DefinitonNode
+    public class DefinitionNode
     {
         public string Name { get; set; }
-        public IList<DefinitonNode> Children { get; set; }
+        public IList<DefinitionNode> Children { get; set; }
     }
 }
