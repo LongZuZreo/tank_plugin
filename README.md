@@ -1,1 +1,2 @@
-map plugin for gank war
+使用说明
+更新中............
