@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tank_plugin", "tank_plugin.csproj", "{28B4B1C4-A349-4A0F-BCAC-69A422F8FCFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28B4B1C4-A349-4A0F-BCAC-69A422F8FCFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B4B1C4-A349-4A0F-BCAC-69A422F8FCFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B4B1C4-A349-4A0F-BCAC-69A422F8FCFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B4B1C4-A349-4A0F-BCAC-69A422F8FCFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
